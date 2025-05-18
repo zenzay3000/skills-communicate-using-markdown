@@ -3,3 +3,7 @@ Testing the h1 header function of md.
 
 ### H3 Test Header
 Testing the h3 header function of md.
+
+**Yaktocat!**
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
