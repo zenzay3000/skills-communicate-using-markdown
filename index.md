@@ -7,3 +7,12 @@ Testing the h3 header function of md.
 **Yaktocat!**
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Markdown Code Examples
+```
+$ git init
+Initialized empty Git repositiory in /Users/skills/Projects/recipe-repo/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
