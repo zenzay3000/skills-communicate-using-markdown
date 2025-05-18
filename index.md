@@ -16,3 +16,8 @@ Initialized empty Git repositiory in /Users/skills/Projects/recipe-repo/.git/
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
