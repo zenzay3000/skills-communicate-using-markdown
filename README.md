@@ -1,4 +1,4 @@
-<header>
+# H1 Test Header <header>
 
 <!--
   <<< Author notes: Course header >>>
